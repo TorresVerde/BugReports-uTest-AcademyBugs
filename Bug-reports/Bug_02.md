@@ -36,4 +36,4 @@
 
 ### 📸 Скриншот
 
-![Bug Screenshot](../Screenshots/Bug_01.png)
+![Bug Screenshot](../Screenshots/Bug_02.png)
