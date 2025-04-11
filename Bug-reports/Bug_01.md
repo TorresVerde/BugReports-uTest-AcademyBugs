@@ -35,4 +35,4 @@
 
 ### 📸 Скриншот
 
-![Bug Screenshot](../Screenshots/Bug_01_Grand_Total_Miscalculation.png)
+![Bug Screenshot](../Screenshots/Bug_01.png)
