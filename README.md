@@ -22,4 +22,3 @@
 - DevTools
 - Тест-дизайн
 - Bug Reporting
-- SDLC, Agile
